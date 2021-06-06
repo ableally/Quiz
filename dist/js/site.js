@@ -20,7 +20,7 @@ let questions = [
   },
   {
     id: 5,
-    question: "	Theories, lectures and philosophical reflections cannot hold your attention for long  ",
+    question: "	Theories, lectures and philosophical reflections can hold your attention for long  ",
 
   },
   {
