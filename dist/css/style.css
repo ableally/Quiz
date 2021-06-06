@@ -19,8 +19,7 @@ body {
   width: 400px;
 }
 
-.welcome_form {
-}
+
 
 .welcome_form input,
 .welcome_form button {
@@ -150,7 +149,8 @@ body {
 
 .username,
 .userpoints,
-.usertime {
+.usertime,
+.uservalue {
   color: #fff;
   text-align: center;
   margin-top: 15px;
