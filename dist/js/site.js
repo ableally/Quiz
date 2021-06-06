@@ -136,12 +136,12 @@ function next() {
 
   if(points > 10)
   {
-  vals = "Entraprenuer";
+  vals = "Entrepreneur";
   sessionStorage.setItem("vals", vals);
   }
   else
   {
-    vals = "Intraprenuer";
+    vals = "Intrapreneur";
     sessionStorage.setItem("vals", vals);
   }
   // if (user_answer == questions[question_count].answer) {
