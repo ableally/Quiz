@@ -1,4 +1,8 @@
 # Quiz
 An OpenSource Questionnaire Project for Entrepreneur or Intraprenuer by ableAlly.
 
-Help Us by contirubuting to the test calibration!
+You can contribute to the project through following ways :
+
+> Take the Test 
+> Calibrate the Test
+> Contribute to the code base
